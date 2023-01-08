@@ -27,7 +27,7 @@ First, the user needs to clone the repo. Then, have Node and MySQL installed.
 
 ## Links
 
-
+https://drive.google.com/file/d/1Oj9cA9TtucC103W6H9i3oxn7RPX1NeIc/view
 
 ## License
 
